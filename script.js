@@ -229,7 +229,6 @@ function checkWinner(row, col) {
 }
 
 
-// Highlight winning pieces
 function highlightWinner(cells) {
 
     const allCells = document.querySelectorAll(".cell");
