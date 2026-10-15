@@ -74,7 +74,6 @@ function displayBoard() {
 }
 
 
-// Make a move
 function makeMove(col) {
 
     if (gameOver) {
