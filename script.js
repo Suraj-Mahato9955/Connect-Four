@@ -98,7 +98,6 @@ function makeMove(col) {
         return;
     }
 
-    // Put player's piece
     board[row][col] = currentPlayer;
 
     displayBoard();
