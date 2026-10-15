@@ -19,7 +19,6 @@ const score2Element = document.getElementById("score2");
 const resetButton = document.getElementById("resetBtn");
 
 
-// Create a new board
 function createBoard() {
 
     board = [];
