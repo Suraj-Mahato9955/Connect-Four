@@ -91,7 +91,6 @@ function makeMove(col) {
         }
     }
 
-    // Column is full
     if (row === -1) {
 
         statusElement.textContent = "Column is full! Choose another.";
