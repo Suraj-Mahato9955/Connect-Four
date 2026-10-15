@@ -159,7 +159,6 @@ function makeMove(col) {
 }
 
 
-// Check winner
 function checkWinner(row, col) {
 
     const player = board[row][col];
