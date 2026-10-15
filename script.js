@@ -133,7 +133,6 @@ function makeMove(col) {
     }
 
 
-    // Check draw
     if (isBoardFull()) {
 
         gameOver = true;
