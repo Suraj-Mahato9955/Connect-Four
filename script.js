@@ -80,7 +80,6 @@ function makeMove(col) {
         return;
     }
 
-    // Find lowest empty row
     let row = -1;
 
     for (let r = rows - 1; r >= 0; r--) {
