@@ -262,7 +262,6 @@ function isBoardFull() {
 }
 
 
-// New game
 resetButton.addEventListener("click", function () {
 
     createBoard();
