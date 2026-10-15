@@ -244,7 +244,6 @@ function highlightWinner(cells) {
 }
 
 
-// Check if board is full
 function isBoardFull() {
 
     for (let row = 0; row < rows; row++) {
