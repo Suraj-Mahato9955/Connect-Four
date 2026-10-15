@@ -42,7 +42,6 @@ function createBoard() {
 }
 
 
-// Display board on screen
 function displayBoard() {
 
     boardElement.innerHTML = "";
