@@ -269,5 +269,4 @@ resetButton.addEventListener("click", function () {
 });
 
 
-// Start game
 createBoard();
