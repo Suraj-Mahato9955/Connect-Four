@@ -196,7 +196,6 @@ function checkWinner(row, col) {
         }
 
 
-        // Backward
         r = row - dr;
         c = col - dc;
 
