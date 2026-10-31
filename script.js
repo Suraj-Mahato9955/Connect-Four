@@ -103,7 +103,6 @@ function makeMove(col) {
     displayBoard();
 
 
-    // Check winner
     const winningCells = checkWinner(row, col);
 
     if (winningCells.length >= 4) {
