@@ -141,7 +141,6 @@ function makeMove(col) {
     }
 
 
-    // Change player
     if (currentPlayer === 1) {
 
         currentPlayer = 2;
