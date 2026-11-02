@@ -161,7 +161,7 @@ function checkWinner(row, col) {
     const player = board[row][col];
 
     const directions = [
-        [0, 1],   // horizontal
+        [0, 1],   
         [1, 0],   // vertical
         [1, 1],   // diagonal
         [1, -1]   // opposite diagonal
