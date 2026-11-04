@@ -163,7 +163,7 @@ function checkWinner(row, col) {
     const directions = [
         [0, 1],   
         [1, 0],   
-        [1, 1],   // diagonal
+        [1, 1],   
         [1, -1]   // opposite diagonal
     ];
 
