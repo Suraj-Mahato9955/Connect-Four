@@ -177,7 +177,6 @@ function checkWinner(row, col) {
         const dc = direction[1];
 
 
-        // Forward
         let r = row + dr;
         let c = col + dc;
 
