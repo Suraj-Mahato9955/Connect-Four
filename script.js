@@ -164,7 +164,7 @@ function checkWinner(row, col) {
         [0, 1],   
         [1, 0],   
         [1, 1],   
-        [1, -1]   // opposite diagonal
+        [1, -1]   
     ];
 
     let winningCells = [];
